@@ -1,0 +1,14 @@
+.admin-sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: var(--sidebar-width);
+  background-color: var(--sidebar-bgcolor);
+  color: var(--sidebar-text-color);
+}
+
+.admin-sidebar a {
+  color: inherit;
+  text-decoration: none;
+}
