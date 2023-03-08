@@ -15,6 +15,18 @@
     "categories": {
       "auth": {
         "reactamplify": {}
+      },
+      "function": {
+        "getBlogs": {
+          "deploymentBucketName": "amplify-amplifyf370136d5ba54-staging-93549-deployment",
+          "s3Key": "amplify-builds/getBlogs-4e325a764c7133356a4e-build.zip"
+        }
+      },
+      "api": {
+        "amplifyRESTapi": {}
+      },
+      "storage": {
+        "blogsAmplifyReact": {}
       }
     }
   }
